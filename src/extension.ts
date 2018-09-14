@@ -38,7 +38,6 @@ export function activate(): void {
   sourcegraph.languages.registerHoverProvider(["*"], {
     provideHover: (doc, pos) => {
       const token = tokenAt(doc.text, pos);
-      console.log(token);
 
       if (token) {
         highlightMatchingLines(doc.text, token);

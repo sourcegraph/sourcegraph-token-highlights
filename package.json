@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "token-highlights",
   "publisher": "chris",
-  "title": "Token highlighter",
+  "title": "Token highlights",
   "description": "Highlights lines matching the variable under the mouse.",
   "activationEvents": [
     "*"

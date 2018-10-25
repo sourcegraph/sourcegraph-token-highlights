@@ -1,4 +1,4 @@
-# Token Highlights Sourcegraph Extension
+# Token highlights Sourcegraph extension
 
 A [Sourcegraph extension](https://github.com/sourcegraph/sourcegraph-extension-api) for highlighting lines matching the currently hovered token on GitHub, Sourcegraph, and other tools.
 
